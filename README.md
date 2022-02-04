@@ -2,7 +2,7 @@
 
 
 |когда | что | кто |
-|:-:|:-:|:-:|---|
+|:-:|:-:|:-:|
 | 28 янв | EM алгоритм | Олег |
 | 29 янв | IBM Model 1 разбор кода | Олег |
 |  4 фев | 1) [From Frequency to Meaning: Vector Space Models of Semantics ](https://jair.org/index.php/jair/article/view/10640); | Янина Худина  |
