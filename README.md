@@ -9,5 +9,5 @@
 |  10 фев | [A case for deep learning in semantics](https://arxiv.org/pdf/1809.03068.pdf)  |   |
 |  11 фев | [On our best behaviour](http://www.cs.toronto.edu/~hector/Papers/ijcai-13-paper.pdf) |   |
 |  17 фев | [Baselines and Bigrams: Simple, Good Sentiment and Topic Classification](https://aclanthology.org/P12-2018.pdf) |  |   |
-|  18 фев (приглашённый гость -- Таня Шаврина) | [Last Words Computational Linguistics and Deep Learning](https://nlp.stanford.edu/manning/papers/Manning-Last-Words-COLI_a_00239.pdf) |   |
+|  18 фев (приглашённый гость -- Таня Шаврина) | [Last Words Computational Linguistics and Deep Learning](https://nlp.stanford.edu/manning/papers/Manning-Last-Words-COLI_a_00239.pdf) | Валерия Бунтякова |
 |  19(примерно) фев |   |   |
