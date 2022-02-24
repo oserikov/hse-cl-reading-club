@@ -11,3 +11,4 @@
 |  17 фев | [Baselines and Bigrams: Simple, Good Sentiment and Topic Classification](https://aclanthology.org/P12-2018.pdf) |  |   |
 |  18 фев (приглашённый гость -- Таня Шаврина) | [Last Words Computational Linguistics and Deep Learning](https://nlp.stanford.edu/manning/papers/Manning-Last-Words-COLI_a_00239.pdf) | Валерия Бунтякова |
 |  19(примерно) фев | Approaches to Text Normalization  | Юлия Короткова  |
+|  25 фев  | 1) [pLSI тематическое моделирование и снова EM алгоритм](https://arxiv.org/ftp/arxiv/papers/1301/1301.6705.pdf) | Яков Раскинд |
